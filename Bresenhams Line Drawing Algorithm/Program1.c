@@ -1,6 +1,7 @@
 #include<stdio.h> 
 #include<GL/glut.h> 
 #include<math.h> 
+
 int xx0,xx1,yy0,yy1; 
 float m;
 
