@@ -1,2 +1,1 @@
-# Computer-Graphics
-- Just a few Computer Graphics codes
+# Computer Graphics Codes Using OpenGL
