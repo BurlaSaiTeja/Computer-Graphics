@@ -1,1 +1,1 @@
-# Computer Graphics Codes Using OpenGL
+# Computer Graphics Using OpenGL
